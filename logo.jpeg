@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Moda Express Atacado</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #fffaf7;
+      color: #333;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color: #ff4d6d;
+      color: white;
+      padding: 30px 20px;
+      text-align: center;
+    }
+    header img {
+      max-width: 180px;
+      border-radius: 12px;
+      margin-bottom: 15px;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2em;
+    }
+    section {
+      padding: 20px;
+      text-align: center;
+    }
+    ul {
+      list-style: none;
+      padding: 0;
+      margin-top: 20px;
+    }
+    li {
+      padding: 10px 0;
+      font-size: 1.1em;
+    }
+    .whatsapp-button {
+      display: inline-block;
+      margin-top: 30px;
+      padding: 15px 25px;
+      background-color: #25d366;
+      color: white;
+      font-size: 1.1em;
+      text-decoration: none;
+      border-radius: 8px;
+      transition: background 0.3s ease;
+    }
+    .whatsapp-button:hover {
+      background-color: #1ebe5c;
+    }
+    footer {
+      text-align: center;
+      padding: 15px;
+      font-size: 0.9em;
+      color: #aaa;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <img src="logo.jpeg" alt="Moda Express Atacado Logo">
+    <h1>Moda Express Atacado</h1>
+    <p>Looks direto da fábrica com preços imbatíveis!</p>
+  </header>
+
+  <section>
+    <h2>🔥 Promoção por tempo limitado!</h2>
+    <ul>
+      <li>🛒 Pedido mínimo de R$100,00</li>
+      <li>📄 Sem necessidade de CNPJ</li>
+      <li>🚚 Entregamos para todo o Brasil</li>
+    </ul>
+
+    <a class="whatsapp-button" href="https://wa.me/5511919433294" target="_blank">
+      Fale com a gente no WhatsApp
+    </a>
+  </section>
+
+  <footer>
+    &copy; 2025 Moda Express Atacado. Todos os direitos reservados.
+  </footer>
+
+</body>
+</html>
